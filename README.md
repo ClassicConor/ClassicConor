@@ -22,8 +22,6 @@ Having previously run my own business and taught myself a variety of programming
   <img alt="LaTeX" height="35px" src="https://cdn.worldvectorlogo.com/logos/latex.svg" />
 </p>
 
-<br/>
-
 ## Contact Me
 
 <p>

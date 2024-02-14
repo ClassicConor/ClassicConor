@@ -6,7 +6,7 @@ I'm a first year student at the University of Kent, studying Computer Science (A
 
 Having previously run my own business and taught myself a variety of programming languages and techniques before coming to university, I consider myself to be somebody who is highly motivated and already ready to learn new concepts and ideas. I work well both individually and as part of a team, I have a passion for programming and big ideas, and I have an iron law commitment to life-long learning.
 
-## Here are my top programming languages/tools at the moment:
+## These are my top programming languages/tools:
 
 <p align="left">
   <img alt="Python" height="35px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg">

@@ -20,7 +20,7 @@ Having previously run my own business and taught myself a variety of programming
   <img alt="Matplotlib" height="35px" src="https://cdn.worldvectorlogo.com/logos/matplotlib-1.svg"/>
   <img alt="GitHub" height="35px" src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" />
   <img alt="LaTeX" height="35px" src="https://cdn.worldvectorlogo.com/logos/latex.svg" />
-  <img align="left" alt="Bulma CSS" height="35px" src="https://cdn.worldvectorlogo.com/logos/bulma.svg" />
+  <img alt="Bulma CSS" height="35px" src="https://cdn.worldvectorlogo.com/logos/bulma.svg" />
 </p>
 
 ## Contact Me

@@ -31,19 +31,3 @@ Having previously run my own business and taught myself a variety of programming
 <p>
   <a href="https://www.linkedin.com/in/conor-woollatt-407b7827b/"> <img alt="LinkedIn" height="35px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg">
 </p>
-
-<!--
-
-## These are the languages/tools that I would like to improve in:
-
-<img align="left" alt="Rust" height="35px" src="https://logosandtypes.com/wp-content/uploads/2020/08/rust.svg">
-<img align="left" alt="C" height="35px" src="https://cdn.worldvectorlogo.com/logos/c-1.svg">
-<img align="left" alt="C++" height="35px" src="https://cdn.worldvectorlogo.com/logos/c.svg">
-<img align="left" alt="Bulma CSS" height="35px" src="https://cdn.worldvectorlogo.com/logos/bulma.svg" />
-<img align="left" alt="Tailwind CSS" height="35px" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" />
-<img align="left" alt="Node JS" height="35px" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg">
-<img align="left" alt="Svelte" height="35px" src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" />
-<img align="left" alt="Keras" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg">
-<img align="left" alt="Docker" height="35px" src="https://cdn.worldvectorlogo.com/logos/docker-4.svg">
-
--->

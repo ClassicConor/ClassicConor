@@ -2,7 +2,7 @@
 
 **`Computer Science with Artificial Intelligence Student`**
 
-I'm a first year student at the University of Kent, studying Computer Science (Artificial Intelligence) with a year in industry. Although I've chosen to specialise in Artificial Intelligence for my degree, I am interested in all areas of programming and computer science more broadly.
+I'm a second year student at the University of Kent, studying Computer Science (Artificial Intelligence) with a year in industry. Although I've chosen to specialise in Artificial Intelligence for my degree, I am interested in all areas of programming and computer science more broadly.
 
 Having previously run my own business and taught myself a variety of programming languages and techniques before coming to university, I consider myself to be somebody who is highly motivated and already ready to learn new concepts and ideas. I work well both individually and as part of a team, I have a passion for programming and big ideas, and I have an iron law commitment to life-long learning.
 

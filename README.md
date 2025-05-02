@@ -22,7 +22,6 @@ Having previously run my own business and taught myself a variety of programming
   <img alt="LaTeX" height="35px" src="https://cdn.worldvectorlogo.com/logos/latex.svg" />
   <img alt="Typst" height="35px" src="https://avatars.githubusercontent.com/u/67595261?s=200&v=4" />
   <img alt="Bulma CSS" height="35px" src="https://cdn.worldvectorlogo.com/logos/bulma.svg" />
-  <img alt="Reveal.js" height="35px" src="https://gitlab.poul.org/uploads/-/system/project/avatar/109/reveal.js-2020-05-28_09-58-06-icon-resized.png" />
   <img alt="MySQL" height="35px" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" />
   <img alt="MongoDB" height="35px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />
 </p>
